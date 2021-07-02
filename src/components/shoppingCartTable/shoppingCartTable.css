@@ -14,7 +14,11 @@ h2{
     margin-right: 10px;
 }
 @media screen and (max-width: 768px) {
+    
     .btn-outline-warning{
         margin: 10px 0px 10px 0;
+    }
+    .shopping-cart-table{
+        overflow: hidden;
     }
 }
