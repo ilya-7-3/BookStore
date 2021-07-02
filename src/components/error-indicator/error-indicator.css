@@ -1,0 +1,14 @@
+.error{
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    color:red;
+    font-size: 30px;
+}
+img{
+    width: 60px;
+    height: 60px;
+}
+.error span{
+    font-size: 20px;
+}

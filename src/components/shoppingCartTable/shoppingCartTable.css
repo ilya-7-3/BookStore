@@ -1,0 +1,20 @@
+.total{
+    text-align: right;
+    font-size: 1.3rem;
+    margin-right: 10px;
+}
+h2{
+    color: black;
+}
+.basket-empty{
+    text-align: center;
+}
+.btn-outline-warning{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+@media screen and (max-width: 768px) {
+    .btn-outline-warning{
+        margin: 10px 0px 10px 0;
+    }
+}
